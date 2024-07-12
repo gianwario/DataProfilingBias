@@ -1,0 +1,11 @@
+[
+    {
+        "LHS": [
+            "fnlwgt",
+            "sex"
+        ],
+        "RHS": [
+            "income"
+        ]
+    }
+]

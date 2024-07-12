@@ -1,0 +1,282 @@
+[
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "relationship",
+            "race",
+            "capital-gain",
+            "age-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "race",
+            "age-range",
+            "hours-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "relationship",
+            "race",
+            "capital-loss",
+            "hours-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "sex",
+            "capital-loss",
+            "age-range",
+            "hours-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "race",
+            "capital-gain",
+            "hours-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "race",
+            "sex",
+            "capital-loss",
+            "hours-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "race",
+            "capital-gain",
+            "capital-loss",
+            "age-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "sex",
+            "capital-gain",
+            "capital-loss",
+            "hours-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "sex",
+            "capital-loss",
+            "age-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "sex",
+            "capital-gain",
+            "age-range",
+            "hours-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "race",
+            "capital-gain",
+            "capital-loss",
+            "age-range",
+            "hours-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "relationship",
+            "race",
+            "capital-gain",
+            "age-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "race",
+            "capital-gain",
+            "capital-loss",
+            "age-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "race",
+            "sex",
+            "capital-gain",
+            "age-range",
+            "hours-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "race",
+            "sex",
+            "capital-gain",
+            "age-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "race",
+            "age-range",
+            "hours-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "relationship",
+            "race",
+            "capital-gain",
+            "age-range",
+            "hours-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "education",
+            "occupation",
+            "sex",
+            "capital-gain",
+            "age-range",
+            "hours-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "race",
+            "age-range",
+            "nc"
+        ],
+        "RHS": [
+            "income"
+        ]
+    },
+    {
+        "LHS": [
+            "workclass",
+            "education",
+            "occupation",
+            "race",
+            "sex",
+            "capital-gain",
+            "age-range"
+        ],
+        "RHS": [
+            "income"
+        ]
+    }
+]
